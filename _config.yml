@@ -39,9 +39,9 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-   - title: linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/karen-loscocco
-   - title: github
+  - title: github
     url: https://karenaloscocco.github.io
 
 # Postal address (add as many lines as necessary)
