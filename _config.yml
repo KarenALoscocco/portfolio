@@ -39,14 +39,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: email
-    url: mailto:karen.loscocco@gatech.edu
   - title: linkedin
     url: https://www.linkedin.com/in/karen-loscocco
   - title: github
     url: https://karenaloscocco.github.io
-  - title: kaggle
-    url: https://www.kaggle.com/karenloscocco
 
 # Postal address (add as many lines as necessary)
 address:
