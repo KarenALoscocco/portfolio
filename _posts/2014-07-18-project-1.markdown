@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+name: Galaxy Morphology Classification Using CNN
 img: galaxy2.png
 alt: image-alt
 pageimg: CNN_diagram.jpg
