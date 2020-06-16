@@ -2,8 +2,8 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-images-array:
-  - img: safe.png
+img: safe.png
+alt: image not found
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
