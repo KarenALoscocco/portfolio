@@ -4,8 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: galaxy2.png
 alt: image-alt
-img: CNN_diagram.jpg
-alt: image-alt
+img2: CNN_diagram.jpg
+alt2: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
