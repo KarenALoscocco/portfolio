@@ -2,8 +2,8 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: vrp.png
-alt: image-alt
+images-array:
+  - img: vrp.png
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
