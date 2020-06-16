@@ -3,8 +3,8 @@ layout: default
 modal-id: 1
 img: galaxy2.png
 alt: image-alt
-img2: CNN_diagram.jpg
-alt2: image-alt
+pageimg: CNN_diagram.jpg
+pagealt: image-alt
 project-date: July 2019
 course: CX-4240 Introduction to Computational Data Analysis
 courseref: https://mahdi-roozbahani.github.io/cse4240-summer2019.github.io/
