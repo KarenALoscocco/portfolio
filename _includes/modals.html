@@ -22,9 +22,9 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
-                                    <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                {% if post.course %}
+                                    <li>Course:
+                                        <strong><a href="{{post.courseref}}">{{ post.course }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -34,9 +34,9 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.category %}
-                                    <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                {% if post.report %}
+                                    <li>View Report:
+                                        <strong><a href="{{post.reportref}}">{{ post.report }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
