@@ -2,9 +2,9 @@
 layout: default
 modal-id: 5
 name: Database Design Project
-img: earnings.png
+img: earnings.jpg
 alt: image-alt
-pageimg: earnings.png
+pageimg: earnings.jpg
 pagealt: image-alt
 project-date: July 2019
 course: CS 4400 Introduction to Database Systems
