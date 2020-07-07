@@ -1,15 +1,15 @@
 ---
 layout: default
-modal-id: 4
-name: Analysis of Factors Affecting Earnings Using BLS Data
+modal-id: 5
+name: Database Design Project
 img: earnings.png
 alt: image-alt
 pageimg: earnings.png
 pagealt: image-alt
-project-date: April 2020
-course: ECON 4232 Labor Economics
-courseref: https://econ.gatech.edu/people/person/haizheng-li
-report: Analysis of Factors Affecting Earnings Using BLS Data
+project-date: July 2019
+course: CS 4400 Introduction to Database Systems
+courseref: https://www.isye.gatech.edu/academics/bachelors/industrial-engineering/courses
+report: Databse Design Project
 reportref:
-description: This paper examines regression analysis for predictors of earnings, and specifically, the causal relationship between education and earnings. Earnings data from the Current Population Survey (CPS) which is conducted each month by the U.S. Census Bureau for the Bureau of Labor Statistics is analyzed. The data exploration, mathematical regression models, and implementations in R, as well as solutions and comments on the applications are included.
+description: This project includes the database design and SQL backend implementation that would support an online system for a grocery delivery service. The classical methodologies for relational database development, Enhanced Entity Relationship Diagram and Information Flow Diagram, are included. The queries support functionalities for three types of users, buyers, deliverers, and managers.
 ---
