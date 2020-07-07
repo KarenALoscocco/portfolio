@@ -2,9 +2,9 @@
 layout: default
 modal-id: 5
 name: Database Design Project
-img: grocerytech.png
+img: earnings.png
 alt: image-alt
-pageimg: grocerytech.png
+pageimg: earnings.png
 pagealt: image-alt
 project-date: July 2019
 course: CS 4400 Introduction to Database Systems
