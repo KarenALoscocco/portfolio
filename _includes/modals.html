@@ -18,7 +18,7 @@
                             {% if post.description %}
                                 <p align="justify">{{ post.description }}</p>
                             {% endif %}
-                            <ul class="list-unstyled item-details h4" align="justify">
+                            <ul class="list-unstyled item-details h4" align="justify" padding=.2>
                                 {% if post.course %}
                                     <li>Course:
                                         <strong><a href="{{post.courseref}}">{{ post.course }}</a>
@@ -29,9 +29,8 @@
                                     <li>Date: {{ post.project-date }}
                                     </li>
                                 {% endif %}
-                                {% if post.report %}
-                                    <li>View Report:
-                                        <strong><a href="{{post.reportref}}">{{ post.report }}</a>
+                                {% if post.reportref %}
+                                    <li><strong><a href="{{post.reportref}}">View Report</a>
                                         </strong>
                                     </li>
                                 {% endif %}
