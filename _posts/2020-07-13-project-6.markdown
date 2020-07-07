@@ -9,9 +9,15 @@ pagealt: image-alt
 project-date: Fall 2019
 course: ISYE 4133 Advanced Optimization
 courseref:
-report: Assignment 1
-reportref:
-report: Assignment 2
-reportref:
+assignment1: Assignment 1
+assignmentref1:
+assignment2: Assignment 2
+assignmentref2:
+assignment3: Assignment 3
+assignmentref3:
+assignment4: Assignment 4
+assignmentref4:
+assignment5: Assignment 5
+assignmentref5:
 description: Assignments in Advanced Optimization
 ---

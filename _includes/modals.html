@@ -35,6 +35,36 @@
                                         </strong>
                                     </li>
                                 {% endif %}
+                                {% if post.assignment1 %}
+                                    <li>View Assignment:
+                                        <strong><a href="{{post.assignmentref1}}">{{ post.assignment1 }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.assignment2 %}
+                                    <li>View Assignment:
+                                        <strong><a href="{{post.assignmentref2}}">{{ post.assignment2 }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.assignment3 %}
+                                    <li>View Assignment:
+                                        <strong><a href="{{post.assignmentref3}}">{{ post.assignment3 }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.assignment4 %}
+                                    <li>View Assignment:
+                                        <strong><a href="{{post.assignmentref4}}">{{ post.assignment4 }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.assignment5 %}
+                                    <li>View Assignment:
+                                        <strong><a href="{{post.assignmentref5}}">{{ post.assignment5 }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
