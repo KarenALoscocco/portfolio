@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image not found
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+name: Database Project - GroceryTech.com
+img: GroceryTech.png
+alt: image-alt
+pageimg: GroceryTech.png
+pagealt: image-alt
+project-date: July 2019
+course: CS 4400 Introduction to Database Systems
+courseref:
+report: GroceryTech.com
+reportref:
+description:
+GroceryTech.com
+This project includes the database design and SQL backend implementation that would support an online system for a grocery delivery service. The classical methodologies for relational database development (Enhanced Entity Relationship Diagram & Information Flow Diagram) are included. The queries support functionalities for three types of users: buyers, deliverers, and managers.
 ---

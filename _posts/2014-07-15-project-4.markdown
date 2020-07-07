@@ -1,11 +1,15 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image not found
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+name: Analysis of Factors Affecting Earnings Using BLS Data
+img: earnings.png
+alt: image-alt
+pageimg: earnings.png
+pagealt: image-alt
+project-date: April 2020
+course: ECON 4232 Labor Economics
+courseref: https://econ.gatech.edu/people/person/haizheng-li
+report: Analysis of Factors Affecting Earnings Using BLS Data
+reportref:
+description: This paper examines regression analysis for predictors of earnings, and specifically, the causal relationship between education and earnings. Earnings data from the Current Population Survey (CPS) which is conducted each month by the U.S. Census Bureau for the Bureau of Labor Statistics is analyzed. The data exploration, mathematical regression models, and implementations in R, as well as solutions and comments on the applications are included.
 ---
