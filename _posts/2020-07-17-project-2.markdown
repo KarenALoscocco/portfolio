@@ -10,7 +10,7 @@ project-date: November 2019
 course: ISYE 4133 Advanced Optimization
 courseref: https://www.isye.gatech.edu/academics/bachelors/industrial-engineering/courses
 report: Vehicle Routing Problem
-reportref: https://www.isye.gatech.edu/academics/bachelors/industrial-engineering/courses
-coderef: link
+reportref: https://github.com/KarenALoscocco/projects/raw/master/Vehicle_Routing_Problem/Vehicle%20Routing%20Problem.pdf
+coderef: https://github.com/KarenALoscocco/projects/tree/master/Vehicle_Routing_Problem/code
 description: This paper examines two well-known variants of the Vehicle Routing Problem (VRP), the Capacitated Vehicle Routing Problem (CVRP) and the Vehicle Routing Problem with Time Windows (VRPTW). VRPs are used in a variety of applications which motivate research in both industry and academia. Two approaches to solve both of these problems are explored, a flow based approach and a set partitioning approach using column generation and a corresponding pricing problem. The model formulations, implementations in Gurobi Python, as well as solutions and comments on the scalability of the approaches are included.
 ---
