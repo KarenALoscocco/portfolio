@@ -35,6 +35,10 @@
                                         </strong>
                                     </li>
                                 {% endif %}
+                                {% if post.coderef %}
+                                    <li><a href="{{post.coderef}}">{{ View Code }}</a>
+                                    </li>
+                                {% endif %}
                                 {% if post.assignment1 %}
                                     <li>View Assignment:
                                         <strong><a href="{{post.assignmentref1}}">{{ post.assignment1 }}</a>
