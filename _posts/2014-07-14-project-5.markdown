@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-name: Database Project - GroceryTech
+name: Database Project GroceryTech
 img: grocerytech.png
 alt: image-alt
 pageimg: grocerytech.png
