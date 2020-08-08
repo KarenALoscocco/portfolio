@@ -10,6 +10,7 @@ project-date: April 2020
 course: ECON 4232 Labor Economics
 courseref: https://econ.gatech.edu/people/person/haizheng-li
 report: Analysis of Factors Affecting Earnings Using BLS Data
-reportref:
+reportref: https://github.com/KarenALoscocco/projects/raw/master/Analysis_of_Factors_Affecting_Earnings_BLS_Data/report.pdf
+coderef: https://github.com/KarenALoscocco/projects/tree/master/Analysis_of_Factors_Affecting_Earnings_BLS_Data/code
 description: This paper examines regression analysis for predictors of earnings, and specifically, the causal relationship between education and earnings. Earnings data from the Current Population Survey (CPS) which is conducted each month by the U.S. Census Bureau for the Bureau of Labor Statistics is analyzed. The data exploration, mathematical regression models, and implementations in R, as well as solutions and comments on the applications are included.
 ---
