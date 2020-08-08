@@ -98,6 +98,7 @@ header img {
 
 header .intro-text .name {
     display: block;
+    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
@@ -218,7 +219,7 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    opacity: .5;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
