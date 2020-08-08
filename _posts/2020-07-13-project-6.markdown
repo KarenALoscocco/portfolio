@@ -24,5 +24,5 @@ soln4: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimizat
 assignment5: Assignment 5
 assignment5ref: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment5/assignment5.pdf
 soln5: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment5/Assignment5_KarenLoscocco.pdf
-description: Assignments in Advanced Optimization. View assignment and my solution. Mathmatical formulations and implementations in Python using Gurobi optimizer are included.
+description: View assignments and my solutions for Advanced Optimizatino course. Mathmatical formulations and implementations in Python using Gurobi optimizer are included.
 ---
