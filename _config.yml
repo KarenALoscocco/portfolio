@@ -46,8 +46,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 14517 Windridge Ct.
-  - line: Glenwood, MD 21738
+  - line: Atlanta, GA
 
 # Credits content
 credits: 'Freelancer is a free to use, MIT licensed Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
