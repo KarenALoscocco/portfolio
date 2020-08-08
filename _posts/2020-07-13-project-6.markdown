@@ -8,16 +8,16 @@ pageimg: opt.png
 pagealt: image-alt
 project-date: Fall 2019
 course: ISYE 4133 Advanced Optimization
-courseref:
-assignment1: Assignment 1
-assignmentref1:
-assignment2: Assignment 2
-assignmentref2:
-assignment3: Assignment 3
-assignmentref3:
-assignment4: Assignment 4
-assignmentref4:
-assignment5: Assignment 5
-assignmentref5:
-description: Assignments in Advanced Optimization
+courseref: https://www.isye.gatech.edu/academics/bachelors/industrial-engineering/courses
+assignment1: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment1/assignment1.pdf
+soln1: https://github.com/KarenALoscocco/projects/tree/master/Advanced_Optimization_Assignments/Assignment1/Karen%20Soln
+assignment2: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment2/assignment2.pdf
+soln2: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment2/KarenLoscocco_Assignment%202.pdf
+assignment3: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment3/assignment3.pdf
+soln3: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment3/KarenLoscocco_Assignment3.pdf
+assignment4: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment4/assignment4.pdf
+soln4: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment4/KarenLoscoccoAssignment4.pdf
+assignment5: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment5/assignment5.pdf
+soln5: https://github.com/KarenALoscocco/projects/blob/master/Advanced_Optimization_Assignments/Assignment5/Assignment5_KarenLoscocco.pdf
+description: Assignments in Advanced Optimization. View assignment and my solution. Mathmatical formulations and implementations in Python using Gurobi optimizer are included.
 ---
