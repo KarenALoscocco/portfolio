@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: Karen Loscocco
 name: Galaxy Morphology Classification Using CNN
 img: galaxy2.png
 alt: image-alt
